@@ -1,0 +1,34 @@
+schema_version = "1.0.0"
+
+id = "fast_viewport_alignment"
+version = "1.0.0"
+name = "Fast Viewport Alignment"
+tagline = "Quickly snap viewport to nearest aligned axis"
+maintainer = "Shawn Shipley <shawn.shipley@gmail.com>"
+type = "add-on"
+
+website = "https://github.com/shawnshipley/fast-viewport-alignment"
+
+tags = ["3D View"]
+
+blender_version_min = "4.2.0"
+
+license = [
+  "SPDX:GPL-3.0-or-later",
+]
+
+copyright = [
+  "2025 Shawn Shipley",
+]
+
+[build]
+paths_exclude_pattern = [
+  "__pycache__/",
+  "/.git/",
+  "/*.zip",
+  "/images",
+  "/build",
+  "/output",
+  ".gitignore",
+  "/Releases",
+]
