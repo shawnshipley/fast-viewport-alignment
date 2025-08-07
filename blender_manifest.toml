@@ -3,7 +3,7 @@ schema_version = "1.0.0"
 id = "fast_viewport_alignment"
 version = "1.0.0"
 name = "Fast Viewport Alignment"
-tagline = "Quickly snap viewport to nearest aligned axis"
+tagline = "Instantly snap 3D viewport to the nearest orthographic axis view"
 maintainer = "Shawn Shipley <shawn.shipley@gmail.com>"
 type = "add-on"
 

@@ -1,6 +1,6 @@
 bl_info = {
     "name": "Fast Viewport Alignment",
-    "description": "Quickly snap viewport to nearest aligned axis with a single shortcut",
+    "description": "Instantly snap 3D viewport to the nearest orthographic axis view",
     "author": "Shawn Shipley",
     "version": (1, 0, 0),
     "blender": (4, 2, 0),

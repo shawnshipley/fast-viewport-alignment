@@ -1,15 +1,18 @@
 # Fast Viewport Alignment
 
-Fast Viewport Alignment is a lightweight and simple add-on that quickly snaps your viewport to the nearest orthographic axis with a single shortcut.
+Fast Viewport Alignment is a lightweight and simple add-on that quickly snaps your viewport to the nearest orthographic axis view with a single shortcut.
 
 ![image](images/screenshot-1.png)
 
 ## Feature Description
-Instantly snap your 3D viewport to the nearest orthographic axis view with a single keypress. Instead of manually selecting the orthographic view you want, just press your assigned shortcut key to instantly snap to which ever axis you are most closely aligned to.
+Instantly snap your 3D viewport to the nearest orthographic axis view with a single keypress. Instead of manually selecting the orthographic view you want, just press your preferred shortcut key to instantly snap to which ever axis you are most closely aligned to. The default assigned shortcut is `Alt + Spacebar`.
+
+## Note
+While the default assigned shortcut is `Alt + Spacebar`, if your workflow allows it, assigning only the `Spacebar` as your shortcut is the most ergonomic and complimentary way to use the add-on.
 
 ## Screenshot
 ![](images/screenshot-1.png)
-Figure 1 - There's no N-panel options to dig through. Just set your prefered shortcut key under the add-on's preferences and you're off to the races.
+Figure 1 - There are no N-panel options to dig through. Just set your prefered shortcut key under the add-on's preferences and you're done.
 
 ## Video
 ![](images/demonstration-1.gif)
